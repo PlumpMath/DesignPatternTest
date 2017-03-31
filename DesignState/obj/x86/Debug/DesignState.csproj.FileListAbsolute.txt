@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\DesignState\bin\Debug\DesignState.exe
+F:\CodeTest\OtherProjectTest\DesignState\bin\Debug\DesignState.pdb
+F:\CodeTest\OtherProjectTest\DesignState\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\DesignState\obj\x86\Debug\DesignState.exe
+F:\CodeTest\OtherProjectTest\DesignState\obj\x86\Debug\DesignState.pdb
+G:\OtherProjectTest\DesignState\bin\Debug\DesignState.exe
+G:\OtherProjectTest\DesignState\bin\Debug\DesignState.pdb
+G:\OtherProjectTest\DesignState\obj\x86\Debug\DesignState.exe
+G:\OtherProjectTest\DesignState\obj\x86\Debug\DesignState.pdb
+H:\gitWorkFloder\DesignPatternTest\DesignState\bin\Debug\DesignState.exe
+H:\gitWorkFloder\DesignPatternTest\DesignState\bin\Debug\DesignState.pdb
+H:\gitWorkFloder\DesignPatternTest\DesignState\obj\x86\Debug\DesignState.exe
+H:\gitWorkFloder\DesignPatternTest\DesignState\obj\x86\Debug\DesignState.pdb

@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Adapter\bin\Debug\Adapter.exe
+F:\CodeTest\OtherProjectTest\Adapter\bin\Debug\Adapter.pdb
+F:\CodeTest\OtherProjectTest\Adapter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Adapter\obj\x86\Debug\Adapter.exe
+F:\CodeTest\OtherProjectTest\Adapter\obj\x86\Debug\Adapter.pdb
+G:\OtherProjectTest\Adapter\bin\Debug\Adapter.exe
+G:\OtherProjectTest\Adapter\bin\Debug\Adapter.pdb
+G:\OtherProjectTest\Adapter\obj\x86\Debug\Adapter.exe
+G:\OtherProjectTest\Adapter\obj\x86\Debug\Adapter.pdb
+H:\gitWorkFloder\DesignPatternTest\Adapter\bin\Debug\Adapter.exe
+H:\gitWorkFloder\DesignPatternTest\Adapter\bin\Debug\Adapter.pdb
+H:\gitWorkFloder\DesignPatternTest\Adapter\obj\x86\Debug\Adapter.exe
+H:\gitWorkFloder\DesignPatternTest\Adapter\obj\x86\Debug\Adapter.pdb

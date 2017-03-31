@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Prototype\bin\Debug\Prototype.exe
+F:\CodeTest\OtherProjectTest\Prototype\bin\Debug\Prototype.pdb
+F:\CodeTest\OtherProjectTest\Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Prototype\obj\x86\Debug\Prototype.exe
+F:\CodeTest\OtherProjectTest\Prototype\obj\x86\Debug\Prototype.pdb
+G:\OtherProjectTest\Prototype\bin\Debug\Prototype.exe
+G:\OtherProjectTest\Prototype\bin\Debug\Prototype.pdb
+G:\OtherProjectTest\Prototype\obj\x86\Debug\Prototype.exe
+G:\OtherProjectTest\Prototype\obj\x86\Debug\Prototype.pdb
+H:\gitWorkFloder\DesignPatternTest\Prototype\bin\Debug\Prototype.exe
+H:\gitWorkFloder\DesignPatternTest\Prototype\bin\Debug\Prototype.pdb
+H:\gitWorkFloder\DesignPatternTest\Prototype\obj\x86\Debug\Prototype.exe
+H:\gitWorkFloder\DesignPatternTest\Prototype\obj\x86\Debug\Prototype.pdb

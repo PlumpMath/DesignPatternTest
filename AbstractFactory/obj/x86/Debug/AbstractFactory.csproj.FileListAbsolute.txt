@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\AbstractFactory\bin\Debug\AbstractFactory.exe
+F:\CodeTest\OtherProjectTest\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\CodeTest\OtherProjectTest\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+F:\CodeTest\OtherProjectTest\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+G:\OtherProjectTest\AbstractFactory\bin\Debug\AbstractFactory.exe
+G:\OtherProjectTest\AbstractFactory\bin\Debug\AbstractFactory.pdb
+G:\OtherProjectTest\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+G:\OtherProjectTest\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+H:\gitWorkFloder\DesignPatternTest\AbstractFactory\bin\Debug\AbstractFactory.exe
+H:\gitWorkFloder\DesignPatternTest\AbstractFactory\bin\Debug\AbstractFactory.pdb
+H:\gitWorkFloder\DesignPatternTest\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+H:\gitWorkFloder\DesignPatternTest\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

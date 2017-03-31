@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Singleton\bin\Debug\Singleton.exe
+F:\CodeTest\OtherProjectTest\Singleton\bin\Debug\Singleton.pdb
+F:\CodeTest\OtherProjectTest\Singleton\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Singleton\obj\x86\Debug\Singleton.exe
+F:\CodeTest\OtherProjectTest\Singleton\obj\x86\Debug\Singleton.pdb
+G:\OtherProjectTest\Singleton\bin\Debug\Singleton.exe
+G:\OtherProjectTest\Singleton\bin\Debug\Singleton.pdb
+G:\OtherProjectTest\Singleton\obj\x86\Debug\Singleton.exe
+G:\OtherProjectTest\Singleton\obj\x86\Debug\Singleton.pdb
+H:\gitWorkFloder\DesignPatternTest\Singleton\bin\Debug\Singleton.exe
+H:\gitWorkFloder\DesignPatternTest\Singleton\bin\Debug\Singleton.pdb
+H:\gitWorkFloder\DesignPatternTest\Singleton\obj\x86\Debug\Singleton.exe
+H:\gitWorkFloder\DesignPatternTest\Singleton\obj\x86\Debug\Singleton.pdb

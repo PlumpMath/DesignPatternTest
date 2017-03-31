@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Memento\bin\Debug\Memento.exe
+F:\CodeTest\OtherProjectTest\Memento\bin\Debug\Memento.pdb
+F:\CodeTest\OtherProjectTest\Memento\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Memento\obj\x86\Debug\Memento.exe
+F:\CodeTest\OtherProjectTest\Memento\obj\x86\Debug\Memento.pdb
+G:\OtherProjectTest\Memento\bin\Debug\Memento.exe
+G:\OtherProjectTest\Memento\bin\Debug\Memento.pdb
+G:\OtherProjectTest\Memento\obj\x86\Debug\Memento.exe
+G:\OtherProjectTest\Memento\obj\x86\Debug\Memento.pdb
+H:\gitWorkFloder\DesignPatternTest\Memento\bin\Debug\Memento.exe
+H:\gitWorkFloder\DesignPatternTest\Memento\bin\Debug\Memento.pdb
+H:\gitWorkFloder\DesignPatternTest\Memento\obj\x86\Debug\Memento.exe
+H:\gitWorkFloder\DesignPatternTest\Memento\obj\x86\Debug\Memento.pdb

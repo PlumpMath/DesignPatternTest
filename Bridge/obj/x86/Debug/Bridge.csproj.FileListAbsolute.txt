@@ -1,0 +1,15 @@
+F:\CodeTest\OtherProjectTest\Bridge\bin\Debug\Bridge.exe
+F:\CodeTest\OtherProjectTest\Bridge\bin\Debug\Bridge.pdb
+F:\CodeTest\OtherProjectTest\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Bridge\obj\x86\Debug\Bridge.exe
+F:\CodeTest\OtherProjectTest\Bridge\obj\x86\Debug\Bridge.pdb
+G:\OtherProjectTest\Bridge\obj\x86\Debug\Bridge.exe
+G:\OtherProjectTest\Bridge\obj\x86\Debug\Bridge.pdb
+G:\OtherProjectTest\Bridge\bin\Debug\Bridge.exe
+G:\OtherProjectTest\Bridge\bin\Debug\Bridge.pdb
+G:\OtherProjectTest\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache
+H:\gitWorkFloder\DesignPatternTest\Bridge\bin\Debug\Bridge.exe
+H:\gitWorkFloder\DesignPatternTest\Bridge\bin\Debug\Bridge.pdb
+H:\gitWorkFloder\DesignPatternTest\Bridge\obj\x86\Debug\Bridge.csprojResolveAssemblyReference.cache
+H:\gitWorkFloder\DesignPatternTest\Bridge\obj\x86\Debug\Bridge.exe
+H:\gitWorkFloder\DesignPatternTest\Bridge\obj\x86\Debug\Bridge.pdb

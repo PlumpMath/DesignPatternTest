@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\EasyFactory\bin\Debug\EasyFactory.exe
+F:\CodeTest\OtherProjectTest\EasyFactory\bin\Debug\EasyFactory.pdb
+F:\CodeTest\OtherProjectTest\EasyFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\EasyFactory\obj\x86\Debug\EasyFactory.exe
+F:\CodeTest\OtherProjectTest\EasyFactory\obj\x86\Debug\EasyFactory.pdb
+G:\OtherProjectTest\EasyFactory\bin\Debug\EasyFactory.exe
+G:\OtherProjectTest\EasyFactory\bin\Debug\EasyFactory.pdb
+G:\OtherProjectTest\EasyFactory\obj\x86\Debug\EasyFactory.exe
+G:\OtherProjectTest\EasyFactory\obj\x86\Debug\EasyFactory.pdb
+H:\gitWorkFloder\DesignPatternTest\EasyFactory\bin\Debug\EasyFactory.exe
+H:\gitWorkFloder\DesignPatternTest\EasyFactory\bin\Debug\EasyFactory.pdb
+H:\gitWorkFloder\DesignPatternTest\EasyFactory\obj\x86\Debug\EasyFactory.exe
+H:\gitWorkFloder\DesignPatternTest\EasyFactory\obj\x86\Debug\EasyFactory.pdb

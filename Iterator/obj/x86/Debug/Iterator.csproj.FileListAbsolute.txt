@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Iterator\bin\Debug\Iterator.exe
+F:\CodeTest\OtherProjectTest\Iterator\bin\Debug\Iterator.pdb
+F:\CodeTest\OtherProjectTest\Iterator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Iterator\obj\x86\Debug\Iterator.exe
+F:\CodeTest\OtherProjectTest\Iterator\obj\x86\Debug\Iterator.pdb
+G:\OtherProjectTest\Iterator\bin\Debug\Iterator.exe
+G:\OtherProjectTest\Iterator\bin\Debug\Iterator.pdb
+G:\OtherProjectTest\Iterator\obj\x86\Debug\Iterator.exe
+G:\OtherProjectTest\Iterator\obj\x86\Debug\Iterator.pdb
+H:\gitWorkFloder\DesignPatternTest\Iterator\bin\Debug\Iterator.exe
+H:\gitWorkFloder\DesignPatternTest\Iterator\bin\Debug\Iterator.pdb
+H:\gitWorkFloder\DesignPatternTest\Iterator\obj\x86\Debug\Iterator.exe
+H:\gitWorkFloder\DesignPatternTest\Iterator\obj\x86\Debug\Iterator.pdb

@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Proxy\bin\Debug\Proxy.exe
+F:\CodeTest\OtherProjectTest\Proxy\bin\Debug\Proxy.pdb
+F:\CodeTest\OtherProjectTest\Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Proxy\obj\x86\Debug\Proxy.exe
+F:\CodeTest\OtherProjectTest\Proxy\obj\x86\Debug\Proxy.pdb
+G:\OtherProjectTest\Proxy\bin\Debug\Proxy.exe
+G:\OtherProjectTest\Proxy\bin\Debug\Proxy.pdb
+G:\OtherProjectTest\Proxy\obj\x86\Debug\Proxy.exe
+G:\OtherProjectTest\Proxy\obj\x86\Debug\Proxy.pdb
+H:\gitWorkFloder\DesignPatternTest\Proxy\obj\x86\Debug\Proxy.exe
+H:\gitWorkFloder\DesignPatternTest\Proxy\obj\x86\Debug\Proxy.pdb
+H:\gitWorkFloder\DesignPatternTest\Proxy\bin\Debug\Proxy.exe
+H:\gitWorkFloder\DesignPatternTest\Proxy\bin\Debug\Proxy.pdb

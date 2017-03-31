@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Facade\bin\Debug\Facade.exe
+F:\CodeTest\OtherProjectTest\Facade\bin\Debug\Facade.pdb
+F:\CodeTest\OtherProjectTest\Facade\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Facade\obj\x86\Debug\Facade.exe
+F:\CodeTest\OtherProjectTest\Facade\obj\x86\Debug\Facade.pdb
+G:\OtherProjectTest\Facade\bin\Debug\Facade.exe
+G:\OtherProjectTest\Facade\bin\Debug\Facade.pdb
+G:\OtherProjectTest\Facade\obj\x86\Debug\Facade.exe
+G:\OtherProjectTest\Facade\obj\x86\Debug\Facade.pdb
+H:\gitWorkFloder\DesignPatternTest\Facade\bin\Debug\Facade.exe
+H:\gitWorkFloder\DesignPatternTest\Facade\bin\Debug\Facade.pdb
+H:\gitWorkFloder\DesignPatternTest\Facade\obj\x86\Debug\Facade.exe
+H:\gitWorkFloder\DesignPatternTest\Facade\obj\x86\Debug\Facade.pdb

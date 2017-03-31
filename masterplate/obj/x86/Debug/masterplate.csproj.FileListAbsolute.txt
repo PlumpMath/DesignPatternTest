@@ -1,0 +1,15 @@
+F:\CodeTest\OtherProjectTest\masterplate\bin\Debug\masterplate.exe
+F:\CodeTest\OtherProjectTest\masterplate\bin\Debug\masterplate.pdb
+F:\CodeTest\OtherProjectTest\masterplate\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\masterplate\obj\x86\Debug\masterplate.exe
+F:\CodeTest\OtherProjectTest\masterplate\obj\x86\Debug\masterplate.pdb
+G:\OtherProjectTest\masterplate\bin\Debug\masterplate.exe
+G:\OtherProjectTest\masterplate\bin\Debug\masterplate.pdb
+G:\OtherProjectTest\masterplate\obj\x86\Debug\masterplate.exe
+G:\OtherProjectTest\masterplate\obj\x86\Debug\masterplate.pdb
+G:\OtherProjectTest\masterplate\obj\x86\Debug\masterplate.csprojResolveAssemblyReference.cache
+H:\gitWorkFloder\DesignPatternTest\masterplate\bin\Debug\masterplate.exe
+H:\gitWorkFloder\DesignPatternTest\masterplate\bin\Debug\masterplate.pdb
+H:\gitWorkFloder\DesignPatternTest\masterplate\obj\x86\Debug\masterplate.csprojResolveAssemblyReference.cache
+H:\gitWorkFloder\DesignPatternTest\masterplate\obj\x86\Debug\masterplate.exe
+H:\gitWorkFloder\DesignPatternTest\masterplate\obj\x86\Debug\masterplate.pdb

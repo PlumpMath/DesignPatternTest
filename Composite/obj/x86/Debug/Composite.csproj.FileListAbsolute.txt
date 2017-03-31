@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Composite\bin\Debug\Composite.exe
+F:\CodeTest\OtherProjectTest\Composite\bin\Debug\Composite.pdb
+F:\CodeTest\OtherProjectTest\Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Composite\obj\x86\Debug\Composite.exe
+F:\CodeTest\OtherProjectTest\Composite\obj\x86\Debug\Composite.pdb
+G:\OtherProjectTest\Composite\bin\Debug\Composite.exe
+G:\OtherProjectTest\Composite\bin\Debug\Composite.pdb
+G:\OtherProjectTest\Composite\obj\x86\Debug\Composite.exe
+G:\OtherProjectTest\Composite\obj\x86\Debug\Composite.pdb
+H:\gitWorkFloder\DesignPatternTest\Composite\bin\Debug\Composite.exe
+H:\gitWorkFloder\DesignPatternTest\Composite\bin\Debug\Composite.pdb
+H:\gitWorkFloder\DesignPatternTest\Composite\obj\x86\Debug\Composite.exe
+H:\gitWorkFloder\DesignPatternTest\Composite\obj\x86\Debug\Composite.pdb

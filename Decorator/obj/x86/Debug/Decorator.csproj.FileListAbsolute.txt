@@ -1,0 +1,13 @@
+F:\CodeTest\OtherProjectTest\Decorator\bin\Debug\Decorator.exe
+F:\CodeTest\OtherProjectTest\Decorator\bin\Debug\Decorator.pdb
+F:\CodeTest\OtherProjectTest\Decorator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Decorator\obj\x86\Debug\Decorator.exe
+F:\CodeTest\OtherProjectTest\Decorator\obj\x86\Debug\Decorator.pdb
+G:\OtherProjectTest\Decorator\bin\Debug\Decorator.exe
+G:\OtherProjectTest\Decorator\bin\Debug\Decorator.pdb
+G:\OtherProjectTest\Decorator\obj\x86\Debug\Decorator.exe
+G:\OtherProjectTest\Decorator\obj\x86\Debug\Decorator.pdb
+H:\gitWorkFloder\DesignPatternTest\Decorator\bin\Debug\Decorator.exe
+H:\gitWorkFloder\DesignPatternTest\Decorator\bin\Debug\Decorator.pdb
+H:\gitWorkFloder\DesignPatternTest\Decorator\obj\x86\Debug\Decorator.exe
+H:\gitWorkFloder\DesignPatternTest\Decorator\obj\x86\Debug\Decorator.pdb
