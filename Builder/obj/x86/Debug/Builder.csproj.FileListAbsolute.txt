@@ -17,7 +17,6 @@ G:\OtherProjectTest\Builder\obj\x86\Debug\Builder.exe
 G:\OtherProjectTest\Builder\obj\x86\Debug\Builder.pdb
 H:\gitWorkFloder\DesignPatternTest\Builder\bin\Debug\Builder.exe
 H:\gitWorkFloder\DesignPatternTest\Builder\bin\Debug\Builder.pdb
-H:\gitWorkFloder\DesignPatternTest\Builder\obj\x86\Debug\Builder.csprojResolveAssemblyReference.cache
 H:\gitWorkFloder\DesignPatternTest\Builder\obj\x86\Debug\Builder.Form1.resources
 H:\gitWorkFloder\DesignPatternTest\Builder\obj\x86\Debug\Builder.Properties.Resources.resources
 H:\gitWorkFloder\DesignPatternTest\Builder\obj\x86\Debug\Builder.csproj.GenerateResource.Cache

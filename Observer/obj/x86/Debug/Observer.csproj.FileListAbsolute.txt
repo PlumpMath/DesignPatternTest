@@ -10,6 +10,5 @@ G:\OtherProjectTest\Observer\obj\x86\Debug\Observer.pdb
 G:\OtherProjectTest\Observer\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache
 H:\gitWorkFloder\DesignPatternTest\Observer\bin\Debug\Observer.exe
 H:\gitWorkFloder\DesignPatternTest\Observer\bin\Debug\Observer.pdb
-H:\gitWorkFloder\DesignPatternTest\Observer\obj\x86\Debug\Observer.csprojResolveAssemblyReference.cache
 H:\gitWorkFloder\DesignPatternTest\Observer\obj\x86\Debug\Observer.exe
 H:\gitWorkFloder\DesignPatternTest\Observer\obj\x86\Debug\Observer.pdb
