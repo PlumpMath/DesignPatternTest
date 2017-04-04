@@ -1,0 +1,9 @@
+F:\CodeTest\OtherProjectTest\Mediator\bin\Debug\Mediator.exe
+F:\CodeTest\OtherProjectTest\Mediator\bin\Debug\Mediator.pdb
+F:\CodeTest\OtherProjectTest\Mediator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Mediator\obj\x86\Debug\Mediator.exe
+F:\CodeTest\OtherProjectTest\Mediator\obj\x86\Debug\Mediator.pdb
+H:\gitWorkFloder\DesignPatternTest\Mediator\bin\Debug\Mediator.exe
+H:\gitWorkFloder\DesignPatternTest\Mediator\bin\Debug\Mediator.pdb
+H:\gitWorkFloder\DesignPatternTest\Mediator\obj\x86\Debug\Mediator.exe
+H:\gitWorkFloder\DesignPatternTest\Mediator\obj\x86\Debug\Mediator.pdb

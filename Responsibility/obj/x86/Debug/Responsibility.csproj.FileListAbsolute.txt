@@ -1,0 +1,9 @@
+F:\CodeTest\OtherProjectTest\Responsibility\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Responsibility\bin\Debug\Responsibility.exe
+F:\CodeTest\OtherProjectTest\Responsibility\bin\Debug\Responsibility.pdb
+F:\CodeTest\OtherProjectTest\Responsibility\obj\x86\Debug\Responsibility.exe
+F:\CodeTest\OtherProjectTest\Responsibility\obj\x86\Debug\Responsibility.pdb
+H:\gitWorkFloder\DesignPatternTest\Responsibility\bin\Debug\Responsibility.exe
+H:\gitWorkFloder\DesignPatternTest\Responsibility\bin\Debug\Responsibility.pdb
+H:\gitWorkFloder\DesignPatternTest\Responsibility\obj\x86\Debug\Responsibility.exe
+H:\gitWorkFloder\DesignPatternTest\Responsibility\obj\x86\Debug\Responsibility.pdb

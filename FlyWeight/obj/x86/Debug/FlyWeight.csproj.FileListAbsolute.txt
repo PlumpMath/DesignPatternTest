@@ -1,0 +1,9 @@
+F:\CodeTest\OtherProjectTest\FlyWeight\bin\Debug\FlyWeight.exe
+F:\CodeTest\OtherProjectTest\FlyWeight\bin\Debug\FlyWeight.pdb
+F:\CodeTest\OtherProjectTest\FlyWeight\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\FlyWeight\obj\x86\Debug\FlyWeight.exe
+F:\CodeTest\OtherProjectTest\FlyWeight\obj\x86\Debug\FlyWeight.pdb
+H:\gitWorkFloder\DesignPatternTest\FlyWeight\bin\Debug\FlyWeight.exe
+H:\gitWorkFloder\DesignPatternTest\FlyWeight\bin\Debug\FlyWeight.pdb
+H:\gitWorkFloder\DesignPatternTest\FlyWeight\obj\x86\Debug\FlyWeight.exe
+H:\gitWorkFloder\DesignPatternTest\FlyWeight\obj\x86\Debug\FlyWeight.pdb

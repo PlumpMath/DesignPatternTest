@@ -1,0 +1,11 @@
+F:\CodeTest\OtherProjectTest\Command\bin\Debug\Command.exe
+F:\CodeTest\OtherProjectTest\Command\bin\Debug\Command.pdb
+F:\CodeTest\OtherProjectTest\Command\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Command\obj\x86\Debug\Command.exe
+F:\CodeTest\OtherProjectTest\Command\obj\x86\Debug\Command.pdb
+C:\Users\finder\Desktop\OtherProjectTest\Command\obj\x86\Debug\Command.exe
+C:\Users\finder\Desktop\OtherProjectTest\Command\obj\x86\Debug\Command.pdb
+H:\gitWorkFloder\DesignPatternTest\Command\bin\Debug\Command.exe
+H:\gitWorkFloder\DesignPatternTest\Command\bin\Debug\Command.pdb
+H:\gitWorkFloder\DesignPatternTest\Command\obj\x86\Debug\Command.exe
+H:\gitWorkFloder\DesignPatternTest\Command\obj\x86\Debug\Command.pdb

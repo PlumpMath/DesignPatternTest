@@ -1,0 +1,9 @@
+F:\CodeTest\OtherProjectTest\Interpreter\bin\Debug\Interpreter.exe
+F:\CodeTest\OtherProjectTest\Interpreter\bin\Debug\Interpreter.pdb
+F:\CodeTest\OtherProjectTest\Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CodeTest\OtherProjectTest\Interpreter\obj\x86\Debug\Interpreter.exe
+F:\CodeTest\OtherProjectTest\Interpreter\obj\x86\Debug\Interpreter.pdb
+H:\gitWorkFloder\DesignPatternTest\Interpreter\bin\Debug\Interpreter.exe
+H:\gitWorkFloder\DesignPatternTest\Interpreter\bin\Debug\Interpreter.pdb
+H:\gitWorkFloder\DesignPatternTest\Interpreter\obj\x86\Debug\Interpreter.exe
+H:\gitWorkFloder\DesignPatternTest\Interpreter\obj\x86\Debug\Interpreter.pdb
